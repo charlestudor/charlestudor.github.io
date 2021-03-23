@@ -125,5 +125,5 @@ The figures turn out to be bandits camping out in the forest, and battle commenc
 
 The party kills 6 Bandits and 1 Mastiff, earning 437.5XP. Some member of the party are injured.
 
-The party finds 37 silver pieces among the bandits, along with 10 crossbow bolts and their weapons. Tansin finds a wooden chest in their camp, which is found to hold a dirty but ornate lady's dress, which he keeps.
+The party finds 37 ~~silver~~ gold pieces among the bandits, along with 10 crossbow bolts and their weapons. Tansin finds a wooden chest in their camp, which is found to hold a dirty but ornate lady's dress, which he keeps.
 
