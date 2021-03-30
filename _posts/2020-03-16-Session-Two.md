@@ -35,6 +35,8 @@ The newcomers can be seen clearly now - two guards dressed in the uniforms of th
 
 The guards call out to Brutus and demand the party reveals themselves at once, not including those already in sight. They claim to be guards investigating reports of bandits, and with them a woman who claims to be a victim of the bandit theft of her prized dress.
 
+Dally purposely falls face first into the ground from his tree, injuring himself, but managing to conceil his face using the mud.
+
 The two groups have a tense standoff, the guards wary of a group who look suspiciously like bandits, and the adventurers wary of the guards' demands to drop their weapons. The situation is not helped by the woman's insistence that this is the group who stole her dress, nor the fact that Tansin is actually in possession of the dress in question.
 
 Eventually the group agrees to parley, and leaves their weapons on the ground a short distance away. They approach the guards to try to settle the misunderstanding. As Tansin gets closer to the guards to bring them the dress, he inspects them for signs of their legitimacy. He spots a small tattoo of a bird on the leaders wrist.
