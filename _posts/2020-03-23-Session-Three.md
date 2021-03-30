@@ -1,7 +1,7 @@
 ---
 title: Session Three
 layout: post
-order: 3
+order: 4
 teaser: After dealing with their unexpected assailants, the party overcome many self-inflicted difficulties to finally arrive at Daggerford...
 ---
 
