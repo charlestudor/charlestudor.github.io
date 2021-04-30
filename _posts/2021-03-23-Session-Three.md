@@ -49,6 +49,6 @@ After defeating the orc, the group set off towards Daggerford. Dally has come to
 
 Rather than walking the entire way, they decide to force a poor farmer to take them along, imposing themselves on his poor donkey and cart full of marrows.
 
-The group reach Daggerford, and cleverly decide to hide their most conspicious members - Betty and Dally. Past the guard and into the town they go...
+The group reach Daggerford, and cleverly decide to hide their most conspicious members - Betty and Dally. Past the guard and into the town they go... The party receive 500XP for reaching Daggerford.
 
 <a href="#" class="image"><img src="{{site.baseurl}}/assets/images/leavingmistyforest2.png"  /></a>
